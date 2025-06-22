@@ -61,7 +61,7 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
 <table>
   <thead>
     <tr>
-      <th>Unidade Curricular / Projeto</th>
+      <th>UC's</th>
       <th>Descrição</th>
     </tr>
   </thead>
