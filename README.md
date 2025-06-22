@@ -67,25 +67,38 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
   </thead>
   <tbody>
     <tr>
-      <td><a href="LINK_DO_PROJETO_1" target="_blank">SIGLA_1</a></td>
+      <td><a href="https://github.com/Litone11/FEUP-PROG-1" target="_blank">PROG_1</a></td>
       <td>Breve descrição do projeto 1.</td>
     </tr>
     <tr>
-      <td><a href="LINK_DO_PROJETO_2" target="_blank">SIGLA_2</a></td>
+      <td><a href="https://github.com/Litone11/FEUP-PROG-2" target="_blank">PROG_2</a></td>
       <td>Breve descrição do projeto 2.</td>
     </tr>
     <tr>
-      <td><a href="LINK_DO_PROJETO_3" target="_blank">SIGLA_3</a></td>
+      <td><a href="https://github.com/Litone11/FEUP-LDTS" target="_blank">LDTS</a></td>
       <td>Breve descrição do projeto 3.</td>
     </tr>
     <tr>
-      <td><a href="LINK_DO_PROJETO_4" target="_blank">SIGLA_4</a></td>
+      <td><a href="https://github.com/Litone11/FEUP-DA-1" target="_blank">DA_1</a></td>
       <td>Breve descrição do projeto 4.</td>
     </tr>
     <tr>
-      <td><a href="LINK_DO_PROJETO_5" target="_blank">SIGLA_5</a></td>
+      <td><a href="https://github.com/Litone11/FEUP-DA-2" target="_blank">DA_2</a></td>
       <td>Breve descrição do projeto 5.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Litone11/FEUP-LCOM" target="_blank">LCOM</a></td>
+      <td>Breve descrição do projeto 6.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Litone11/FEUP-ESOF" target="_blank">ESOF</a></td>
+      <td>Breve descrição do projeto 7.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Litone11/FEUP-LTW" target="_blank">LTW</a></td>
+      <td>Breve descrição do projeto 8.</td>
+    </tr>
+
   </tbody>
 </table>
 
