@@ -33,8 +33,6 @@
 
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
-###
-
 <p align="left">
 Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnologia e desenvolvimento de software.<br><br>
 - 🔭 Neste momento estou a trabalhar em projetos académicos com Flutter, Firebase, C, C++, Java, etc.<br>
@@ -46,23 +44,54 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
 
 <h3 align="left">🚀 Projetos em Destaque</h3>
 
-###
-
 <ul>
   <li>
-    
+    <!-- Adiciona aqui projetos pessoais em destaque -->
   </li>
   <br>
   <li>
-    
+    <!-- Outro projeto pessoal -->
   </li>
 </ul>
 
 ###
 
-<h3 align="left">🧰 Tecnologias e Ferramentas</h3>
+<h3 align="left">📚 Projetos Universitários</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Unidade Curricular / Projeto</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="LINK_DO_PROJETO_1" target="_blank">SIGLA_1</a></td>
+      <td>Breve descrição do projeto 1.</td>
+    </tr>
+    <tr>
+      <td><a href="LINK_DO_PROJETO_2" target="_blank">SIGLA_2</a></td>
+      <td>Breve descrição do projeto 2.</td>
+    </tr>
+    <tr>
+      <td><a href="LINK_DO_PROJETO_3" target="_blank">SIGLA_3</a></td>
+      <td>Breve descrição do projeto 3.</td>
+    </tr>
+    <tr>
+      <td><a href="LINK_DO_PROJETO_4" target="_blank">SIGLA_4</a></td>
+      <td>Breve descrição do projeto 4.</td>
+    </tr>
+    <tr>
+      <td><a href="LINK_DO_PROJETO_5" target="_blank">SIGLA_5</a></td>
+      <td>Breve descrição do projeto 5.</td>
+    </tr>
+  </tbody>
+</table>
 
 ###
+
+<h3 align="left">🧰 Tecnologias e Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -97,7 +126,3 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
 </div>
-
-###
-
-
