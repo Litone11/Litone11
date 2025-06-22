@@ -50,13 +50,11 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
 
 <ul>
   <li>
-    <b>📱 <a href="https://github.com/Litone11/flutter-volunteer-app">App de Voluntariado com Flutter + Firebase</a></b><br>
-    Aplicação para conectar voluntários a organizações locais. Suporte a autenticação, geolocalização e uploads.
+    
   </li>
   <br>
   <li>
-    <b>📷 <a href="https://github.com/Litone11/image-processing-scrim">Scrim Image Processor</a></b><br>
-    Processador de imagens em C++ com parsing de comandos personalizados e manipulação de imagens RGB.
+    
   </li>
 </ul>
 
