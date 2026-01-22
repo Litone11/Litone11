@@ -70,7 +70,6 @@
 
 <p align="left">
 Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnologia e desenvolvimento de software.<br><br>
-- 🔭 Neste momento estou a trabalhar em projetos académicos com Flutter, Firebase, C, C++, Java, etc.<br>
 - 📚 Atualmente estou a aprofundar os meus conhecimentos em Engenharia e Arquitetura de Software e Análise de dados<br>
 - ⚡ Nos meus tempos livres gosto de explorar novas tecnologias, ir tomar um café com amigos e jogar CS2!
 </p>
