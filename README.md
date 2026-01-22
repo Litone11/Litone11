@@ -81,7 +81,7 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
 
 <ul>
   <li>
-    <!-- Adiciona aqui projetos pessoais em destaque -->
+    <!--projetos pessoais em destaque -->
   </li>
   <br>
   <li>
@@ -96,42 +96,61 @@ Sou o Luís, estudante de Engenharia Informática na FEUP, apaixonado por tecnol
 <table>
   <thead>
     <tr>
+      <th>Ano/Semestre</th>
       <th>UC's</th>
       <th>Descrição</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>1/2</td>
       <td><a href="https://github.com/Litone11/FEUP-PROG-1" target="_blank">PROG_1</a></td>
-      <td>Breve descrição do projeto 1.</td>
+      <td>Programa em C++ que converte ficheiros SVG em imagens PNG, com suporte para transformações geométricas, grupos e duplicação de elementos.</td>
     </tr>
     <tr>
+      <td>1/2</td>
       <td><a href="https://github.com/Litone11/FEUP-PROG-2" target="_blank">PROG_2</a></td>
-      <td>Breve descrição do projeto 2.</td>
+      <td> Projeto de processamento de "scrims" em C++ que lê ficheiros de configuração, executa operações de transformação em imagens através de um parser e gera resultados.</td>
     </tr>
     <tr>
+      <td>2/1</td>
       <td><a href="https://github.com/Litone11/FEUP-LDTS" target="_blank">LDTS</a></td>
-      <td>Breve descrição do projeto 3.</td>
+      <td>Jogo de arcade retro "The Invaders" desenvolvido em LDTS com diferentes temas (Space Invaders e PAC-MAN), implementando padrões de design, menus, sistema de pontuação, opções de som e mecânicas de jogo clássicas de atirador horizontal.</td>
     </tr>
     <tr>
+      <td>2/2</td>
       <td><a href="https://github.com/Litone11/FEUP-DA-1" target="_blank">DA_1</a></td>
-      <td>Breve descrição do projeto 4.</td>
+      <td>Projeto de algoritmos e estruturas de dados que implementa um grafo para resolver problemas de rotas e localizações, com suporte para leitura de ficheiros CSV (locais e distâncias), processamento de rutas e batch de operações.</td>
     </tr>
     <tr>
+      <td>2/2</td> 
       <td><a href="https://github.com/Litone11/FEUP-DA-2" target="_blank">DA_2</a></td>
-      <td>Breve descrição do projeto 5.</td>
+      <td>Projeto que implementa algoritmos para resolver o Problema da Mochila (0/1 Knapsack) com múltiplas abordagens: força bruta, programação dinâmica, algoritmos gulosos e soluções baseadas em ILP (Integer Linear Programming) para otimização de paletes.</td>
     </tr>
     <tr>
+      <td>2/2</td>
       <td><a href="https://github.com/Litone11/FEUP-LCOM" target="_blank">LCOM</a></td>
-      <td>Breve descrição do projeto 6.</td>
+      <td>Projeto de laboratório de programação de computadores que implementa um jogo em C com minix (sistema operativo educacional), contendo componentes para dispositivos (devices), entidades (entities), lógica de jogo (game) e gestão de eventos (xpm).</td>
     </tr>
     <tr>
+      <td>2/2</td>
       <td><a href="https://github.com/Litone11/FEUP-ESOF" target="_blank">ESOF</a></td>
-      <td>Breve descrição do projeto 7.</td>
+      <td>TaskMate - Aplicação de gestão de tarefas e colaboração que permite criar, organizar e partilhar tarefas com notificações, integração de calendário, visualizações por grupos e datas, e funcionalidades de colaboração em grupo com chat integrado.</td>
     </tr>
     <tr>
+      <td>2/2</td>
       <td><a href="https://github.com/Litone11/FEUP-LTW" target="_blank">LTW</a></td>
-      <td>Breve descrição do projeto 8.</td>
+      <td>Plataforma web em PHP que implementa um sistema de gestão de utilizadores com autenticação (admin, cliente, freelancer), controlo de sessões, base de dados integrada e roteamento dinâmico para diferentes páginas baseado no tipo de utilizador.</td>
+    </tr>
+    <tr>
+      <td>3/1</td>
+      <td><a href="https://github.com/Litone11/FEUP-RCOM" target="_blank">RCOM</a></td>
+      <td>Projeto de redes de computadores que implementa um programa de cabo virtual para testar portos seriais, criando pares de portos TX/RX virtuais usando sockets para simulação de comunicação serial entre aplicações.</td>
+    </tr>
+    <tr>
+      <td>3/1</td>
+      <td><a href="https://github.com/Litone11/" target="_blank">LBAW</a></td>
+      <td>Updating...</td>
     </tr>
 
   </tbody>
