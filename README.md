@@ -4,8 +4,6 @@
 
   <h1>hey there, I'm Luís 👋</h1>
 
----
-
   <p><b>Estudante de Engenharia Informática e Computação @ FEUP 🎓</b></p>
 
   <p align="center">
