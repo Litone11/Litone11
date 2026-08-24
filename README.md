@@ -16,14 +16,7 @@
       <img src="https://img.shields.io/badge/Email-luismartins1106@icloud.com-EA4335?style=for-the-badge&logo=apple&logoColor=white" alt="Email" />
     </a>
   </p>
-
-  <br />
-
-  <a href="https://github.com/Litone11">
-    <img src="https://github-readme-stats.vercel.app/api?username=Litone11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litone11&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Languages" />
-  </a>
-
+  
 </div>
 
 <br />
