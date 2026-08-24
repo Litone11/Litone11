@@ -1,217 +1,134 @@
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Litone11.Litone11&" />
-
-###
-
-<br clear="both">
-
-<h1 align="center">hey there, I´m Luís 👋</h1>
-
-###
-
 <div align="center">
-  <a href="https://luismartins.website" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Litone11.Litone11&left_color=gray&right_color=blue" align="right" />
+
+  <h1>hey there, I'm Luís 👋</h1>
+  <p><b>Estudante de Engenharia Informática e Computação @ FEUP 🎓</b></p>
+
+  <p align="center">
+    <a href="https://luismartins.website" target="_blank">
+      <img src="https://img.shields.io/badge/Website-luismartins.website-111827?style=for-the-badge&logo=react&logoColor=00f0ff" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/luis-martins-874819238/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Luís_Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:luismartins1106@icloud.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-luismartins1106@icloud.com-EA4335?style=for-the-badge&logo=apple&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <br />
+
+  <a href="https://github.com/Litone11">
+    <img src="https://github-readme-stats.vercel.app/api?username=Litone11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litone11&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Languages" />
   </a>
-  <a href="https://www.linkedin.com/in/luis-martins-874819238/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:luismartins1106@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=icloud&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
-  </a>
+
 </div>
 
-###
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Litone11&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litone11&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
-</div>
+---
 
-###
+### 👨‍💻 Sobre Mim
 
-<h3 align="left">🧰 Tecnologias e Ferramentas</h3>
+> Sou o **Luís Martins**, estudante de **Engenharia Informática e Computação (LEIC)** na **FEUP** (Faculdade de Engenharia da Universidade do Porto). Sou apaixonado por desenvolvimento web full-stack, arquitetura de software e engenharia de sistemas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
+- 🌐 **Portfólio Pessoal:** [luismartins.website](https://luismartins.website)
+- 🎓 **Foco de Estudo:** Engenharia Web, IA / Machine Learning, Computação Paralela, Compiladores e Cibersegurança.
+- ⚡ **Interesses:** Explorar novas tecnologias, criar produtos digitais, tomar um café com amigos e jogar CS2!
 
-###
+---
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+### 🧰 Tecnologias & Ferramentas
 
-<p align="left">
-Sou o <b>Luís Martins</b>, estudante de Engenharia Informática e Computação na Faculdade de Engenharia da Universidade do Porto (FEUP), apaixonado por desenvolvimento web full-stack, arquitetura de software e engenharia de sistemas.<br><br>
-- 🌐 Visita o meu portfólio pessoal em <b><a href="https://luismartins.website" target="_blank">luismartins.website</a></b><br>
-- 📚 Conhecimentos aplicados em Engenharia Web, Inteligência Artificial / Machine Learning, Computação Paralela, Compiladores e Cibersegurança.<br>
-- ⚡ Nos meus tempos livres gosto de explorar novas tecnologias, desenvolver aplicações modernas, estar com amigos e jogar CS2!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,react,vite,tailwind,laravel,flutter,dart,supabase,postgres,docker,git,vscode&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-###
+---
 
-<h3 align="left">🚀 Projetos em Destaque</h3>
-
-<ul>
-  <li>
-    ⚡ <b><a href="https://github.com/Litone11/portfolio-web" target="_blank">Portfolio Web</a></b> (🌐 <a href="https://luismartins.website" target="_blank">luismartins.website</a>)<br>
-    Portfólio pessoal reativo desenvolvido em <b>React 19</b>, <b>TypeScript</b> e <b>Vite 6</b> com estética Neo-Brutalista e sistema de multi-layout reconfigurável em tempo real.
-  </li>
-  <br>
-  <li>
-    🏬 <b><a href="https://github.com/Litone11/magol-web-app" target="_blank">MAGOL Web App</a></b> (🌐 <a href="https://magol.pt" target="_blank">magol.pt</a>)<br>
-    Website institucional e Headless CMS para a empresa <b>MAGOL</b> (Carroçarias e Drogaria, Branca · Aveiro). Desenvolvido com <b>React 18</b>, <b>Vite</b> e <b>Supabase</b> (PostgreSQL, Auth & Storage), deployed na Vercel.
-  </li>
-  <br>
-  <li>
-    🎓 <b><a href="https://github.com/Litone11/LEIC-FEUP" target="_blank">LEIC-FEUP</a></b><br>
-    Repositório central organizando todos os projetos académicos desenvolvidos ao longo da Licenciatura em Engenharia Informática e Computação na FEUP (1º, 2º e 3º Anos).
-  </li>
-</ul>
-
-###
-
-<h3 align="left">📚 Projetos Universitários (@ FEUP)</h3>
-
-<p align="left">
-Todos os projetos académicos abaixo estão organizados no repositório principal <b><a href="https://github.com/Litone11/LEIC-FEUP" target="_blank">LEIC-FEUP</a></b>.
-</p>
+### 🚀 Projetos em Destaque
 
 <table>
-  <thead>
-    <tr>
-      <th>Ano/Sem.</th>
-      <th>UC</th>
-      <th>Descrição</th>
-      <th>Tecnologias</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/1st_year/PROG-1" target="_blank">PROG I</a></td>
-      <td>Conversor de ficheiros SVG para imagens PNG com renderização geométrica e transformações afins.</td>
-      <td><code>C++</code></td>
-    </tr>
-    <tr>
-      <td>1/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/1st_year/PROG-2" target="_blank">PROG II</a></td>
-      <td>Processador e interpretador de scripts da linguagem SCRIM para manipulação digital de imagens.</td>
-      <td><code>C++</code>, <code>CMake</code></td>
-    </tr>
-    <tr>
-      <td>2/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LDTS" target="_blank">LDTS</a></td>
-      <td>Jogo retro arcade <i>"The Invaders"</i> em Java com interface Lanterna, MVC, State Pattern e testes unitários.</td>
-      <td><code>Java</code>, <code>Lanterna</code>, <code>JUnit</code></td>
-    </tr>
-    <tr>
-      <td>2/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/DA-1" target="_blank">DA I</a></td>
-      <td>Otimização de rede de distribuição de água utilizando grafos e algoritmos de fluxo máximo.</td>
-      <td><code>C++</code></td>
-    </tr>
-    <tr>
-      <td>2/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/DA-2" target="_blank">DA II</a></td>
-      <td>Resolução do Problema da Mochila (0/1 Knapsack) com Força Bruta, Programação Dinâmica, Greedy e ILP.</td>
-      <td><code>C++</code></td>
-    </tr>
-    <tr>
-      <td>2/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LCOM" target="_blank">LCOM</a></td>
-      <td>Jogo Low-Level em C a correr sobre SO Minix com controlo direto de hardware (VBE, Timer, Keyboard, Mouse, RTC, Serial).</td>
-      <td><code>C</code>, <code>Minix OS</code></td>
-    </tr>
-    <tr>
-      <td>2/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/ESOF" target="_blank">ESOF</a></td>
-      <td><i>TaskMate</i> - Aplicação mobile de gestão de tempo e colaboração em grupo desenvolvida em Agile/Scrum.</td>
-      <td><code>Flutter</code>, <code>Dart</code></td>
-    </tr>
-    <tr>
-      <td>2/2</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LTW" target="_blank">LTW</a></td>
-      <td>Plataforma web de marketplace de serviços freelancers com controlo de sessões e base de dados.</td>
-      <td><code>PHP</code>, <code>SQLite</code>, <code>JS</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/LBAW" target="_blank">LBAW</a></td>
-      <td>Plataforma web empresarial full-stack com arquitetura MVC, autenticação, controlo de acessos e testes.</td>
-      <td><code>Laravel 12</code>, <code>PHP</code>, <code>PostgreSQL</code>, <code>Docker</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/IA-1" target="_blank">IA (Puzzle Solver)</a></td>
-      <td>Resolução do Water Sort Puzzle utilizando algoritmos de pesquisa não informada (BFS, DFS) e informada (A*, Greedy).</td>
-      <td><code>Python</code>, <code>Tkinter</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/IA-2" target="_blank">IA (StockSmart)</a></td>
-      <td>Aplicação web <i>StockSmart</i> para previsão de procura (Demand Forecasting) baseada em Machine Learning.</td>
-      <td><code>Python</code>, <code>Scikit-Learn</code>, <code>Streamlit</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/CG" target="_blank">CG</a></td>
-      <td>Renderização e animação de cenas 3D interativas no browser com iluminação e mapeamento de texturas.</td>
-      <td><code>JavaScript</code>, <code>WebGL</code>, <code>Three.js</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/COMP" target="_blank">COMP</a></td>
-      <td>Compilador completo para linguagem orientada a objetos (Sub-Java) com análise sintática/semântica e geração de bytecode Jasmin.</td>
-      <td><code>Java</code>, <code>ANTLR4</code>, <code>Jasmin</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/CPD" target="_blank">CPD</a></td>
-      <td>Multiplicação Paralela de Matrizes - Otimização de computação paralela explorando OpenMP e MPI.</td>
-      <td><code>C++</code>, <code>OpenMP</code>, <code>MPI</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/FSI" target="_blank">FSI</a></td>
-      <td>Laboratórios de Cibersegurança (SEED Labs) cobrindo Buffer Overflow, Format Strings, XSS, SQLi e Criptografia.</td>
-      <td><code>C</code>, <code>Python</code>, <code>SEED Labs</code></td>
-    </tr>
-    <tr>
-      <td>3/1</td>
-      <td><a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/RCOM" target="_blank">RCOM</a></td>
-      <td>Protocolo de ligação de dados sobre porta série RS-232 (framing, byte stuffing, stop-and-wait ARQ).</td>
-      <td><code>C</code>, <code>Linux Serial API</code></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ <a href="https://github.com/Litone11/portfolio-web">Portfolio Web</a></h4>
+      <p align="center">
+        <a href="https://luismartins.website" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-luismartins.website-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" />
+        </a>
+      </p>
+      <p>Portfólio pessoal reativo desenvolvido em React 19 + TypeScript + Vite 6 com estética Neo-Brutalista e motor de temas reconfigurável em tempo real.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Vite 6</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🏬 <a href="https://github.com/Litone11/magol-web-app">MAGOL Web App</a></h4>
+      <p align="center">
+        <a href="https://magol.pt" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-magol.pt-22C55E?style=flat-square&logo=googlechrome&logoColor=white" />
+        </a>
+      </p>
+      <p>Website institucional e Headless CMS para a empresa MAGOL (Branca · Aveiro), permitindo gestão de catálogo, serviços e orçamentos.</p>
+      <p><code>React 18</code> <code>Vite</code> <code>Supabase</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4 align="center">🎓 <a href="https://github.com/Litone11/LEIC-FEUP">LEIC-FEUP — Central de Projetos Académicos</a></h4>
+      <p>Repositório unificado que consolida todos os projetos práticos desenvolvidos ao longo da Licenciatura em Engenharia Informática e Computação na FEUP (1º, 2º e 3º Anos).</p>
+      <p><code>C/C++</code> <code>Java</code> <code>Python</code> <code>Laravel 12</code> <code>Docker</code> <code>OpenMP/MPI</code> <code>Three.js</code></p>
+    </td>
+  </tr>
 </table>
+
+---
+
+### 📚 Projetos Universitários (@ FEUP)
+
+> Todos os trabalhos académicos estão centralizados no repositório **[LEIC-FEUP](https://github.com/Litone11/LEIC-FEUP)**.
+
+<details open>
+<summary><b>3º Ano Curricular</b></summary>
+<br />
+
+| UC | Projeto | Descrição | Stack |
+| :--- | :--- | :--- | :---: |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/LBAW">LBAW</a>** | Full-Stack Web App | Plataforma web empresarial com arquitetura MVC, autenticação e controlo de acessos. | `Laravel 12` `PostgreSQL` `Docker` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/IA-2">IA (StockSmart)</a>** | StockSmart | Web app de previsão de procura (*Demand Forecasting*) com modelos de Machine Learning. | `Python` `Scikit-Learn` `Streamlit` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/IA-1">IA (Puzzle)</a>** | Water Sort Solver | Resolução de puzzle com algoritmos de pesquisa não informada (BFS, DFS) e informada ($A^*$). | `Python` `Tkinter` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/CG">CG</a>** | Cenas Gráficas 3D | Renderização e animação de cenas 3D interativas no browser com iluminação e texturas. | `JavaScript` `WebGL` `Three.js` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/COMP">COMP</a>** | Compilador Sub-Java | Compilador completo para linguagem OO com análise sintática/semântica e geração de Jasmin. | `Java` `ANTLR4` `Jasmin` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/CPD">CPD</a>** | Multiplicação Paralela | Otimização de computação paralela de matrizes explorando OpenMP e MPI. | `C++` `OpenMP` `MPI` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/FSI">FSI</a>** | Cybersecurity Labs | SEED Labs cobrindo Buffer Overflow, Format Strings, XSS, SQLi e Criptografia. | `C` `Python` `SEED Labs` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/3rd_year/RCOM">RCOM</a>** | Ligação de Dados | Protocolo de comunicação sobre porta de série RS-232 (framing, byte stuffing, ARQ). | `C` `Linux Serial API` |
+
+</details>
+
+<details>
+<summary><b>2º Ano Curricular</b></summary>
+<br />
+
+| UC | Projeto | Descrição | Stack |
+| :--- | :--- | :--- | :---: |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/ESOF">ESOF</a>** | TaskMate | Aplicação mobile de gestão de tempo e tarefas colaborativas em Agile/Scrum. | `Flutter` `Dart` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LDTS">LDTS</a>** | The Invaders | Jogo retro arcade em Java com Lanterna, MVC, State Pattern e testes unitários. | `Java` `Lanterna` `JUnit` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LCOM">LCOM</a>** | Jogo Low-Level Minix | Jogo em C sobre SO Minix com controlo direto de hardware (VBE, Keyboard, Mouse, RTC). | `C` `Minix OS` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/LTW">LTW</a>** | Web Marketplace | Aplicação web completa para prestação e contratação de serviços freelance. | `PHP` `SQLite` `JS` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/DA-1">DA I</a>** | Abastecimento de Água | Otimização de rede de distribuição de água utilizando grafos e fluxo máximo. | `C++` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/2nd_year/DA-2">DA II</a>** | Problema da Mochila | Resolução e análise comparativa do 0/1 Knapsack (Força Bruta, DP, Greedy, ILP). | `C++` |
+
+</details>
+
+<details>
+<summary><b>1º Ano Curricular</b></summary>
+<br />
+
+| UC | Projeto | Descrição | Stack |
+| :--- | :--- | :--- | :---: |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/1st_year/PROG-1">PROG I</a>** | Conversor SVG -> PNG | Leitor de especificações SVG com renderização geométrica e transformações afins. | `C++` |
+| **<a href="https://github.com/Litone11/LEIC-FEUP/tree/main/1st_year/PROG-2">PROG II</a>** | Processador SCRIM | Interpretador de scripts da linguagem SCRIM para manipulação digital de imagens. | `C++` `CMake` |
+
+</details>
