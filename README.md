@@ -3,6 +3,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Litone11.Litone11&left_color=gray&right_color=blue" align="right" />
 
   <h1>hey there, I'm Luís 👋</h1>
+
+---
+
   <p><b>Estudante de Engenharia Informática e Computação @ FEUP 🎓</b></p>
 
   <p align="center">
